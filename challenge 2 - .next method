@@ -1,0 +1,2 @@
+Challenge 2
+Create an iterator with a next method that returns each value of the array when .next is called.
